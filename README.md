@@ -1,3 +1,3 @@
 # hi
 
-![Lucknite's GitHub stats](https://stars-one-gilt.vercel.app/api?username=x1xhlol)
+![Lucknite's GitHub stats](https://readme-stars.vercel.app/api?username=x1xhlol)
